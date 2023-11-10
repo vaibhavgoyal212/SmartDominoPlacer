@@ -1,0 +1,11 @@
+{
+    "rl": "robot_launch",
+    "sl": "slam_launch",
+    "sm": "save_map",
+    "lm": "load_map",
+    "lc": "localize",
+    "nv": "navigate",
+    "ep": "execute_plan",
+    "pn": "place_now",
+    "cl": "clean_up"
+}
